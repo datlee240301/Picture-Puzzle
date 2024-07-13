@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|c:\\new folder\\new folder (2)\\jigsaw-puzzle\\assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|c:\\new folder\\new folder (2)\\jigsaw-puzzle\\assets\\script\\uiplayscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uiplayscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\assets\\script\\numberbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\numberbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|c:\\new folder\\new folder (2)\\jigsaw-puzzle\\assets\\script\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|c:\\new folder\\new folder (2)\\jigsaw-puzzle\\assets\\script\\realtimecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\realtimecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\assets\\script\\stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D4FFF4-C742-11ED-0296-C9838056C32E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\Puzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Puzzle.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\Puzzle.cs",
+              "RelativeToolTip": "Assets\\Script\\Puzzle.cs",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAmwJ8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:10:10.526Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiPlaySceneManager.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\UiPlaySceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UiPlaySceneManager.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\UiPlaySceneManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UiPlaySceneManager.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAA8wK4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:31:45.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SoundManager.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SoundManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:35:22.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberBox.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\NumberBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NumberBox.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\NumberBox.cs",
+              "RelativeToolTip": "Assets\\Script\\NumberBox.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwF8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:07:52.054Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiManager.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\UiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UiManager.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\UiManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UiManager.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAQwJ0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:33:55.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealTimeCounter.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\RealTimeCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RealTimeCounter.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\RealTimeCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\RealTimeCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:32:33.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringManager.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\StringManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StringManager.cs",
+              "ToolTip": "C:\\New folder\\New folder (2)\\Jigsaw-Puzzle\\Assets\\Script\\StringManager.cs",
+              "RelativeToolTip": "Assets\\Script\\StringManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:25:56.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
