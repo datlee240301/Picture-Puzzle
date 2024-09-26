@@ -160,11 +160,11 @@ public class UiManager : MonoBehaviour
             PlayerPrefs.SetInt(StringManager.levelSelect, levelId);
             if (levelId > 0 && levelId <= 5)
             {
-                PlayerPrefs.SetInt(StringManager.layout2, 0);
+                PlayerPrefs.SetInt(StringManager.layoutId, 0);
             }
             else if (levelId > 5 && levelId <= 10)
             {
-                PlayerPrefs.SetInt(StringManager.layout2, 1);
+                PlayerPrefs.SetInt(StringManager.layoutId, 1);
             }
             LoadScene("PlayScene");
         }

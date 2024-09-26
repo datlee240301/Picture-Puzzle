@@ -2,6 +2,7 @@ using UnityEngine;
 
 internal class StringManager : MonoBehaviour
 {
+    internal static string layoutId;
     internal const string levelSelect = "levelSelect";
     internal const string level1Stars = "level1Stars";
     internal const string level2Stars = "level2Stars";
